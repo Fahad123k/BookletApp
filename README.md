@@ -5,3 +5,4 @@
 #           CopyRight Resereved                      #
 #                                                    #
 ######################################################
+- this is fully functional app that re aranges your pdf into printable format --
