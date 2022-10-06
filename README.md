@@ -5,4 +5,5 @@
 #           CopyRight Resereved                      #
 #                                                    #
 ######################################################
-- this is fully functional app that re aranges your pdf into printable format --
+- this is fully functional app that re aranges your pdf into printable format
+-- and you can also re rearange your pdf into any language like english ,Hindi,Urdu,Hebrew,Arabic Tamil etc
